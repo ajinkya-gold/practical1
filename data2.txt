@@ -1,0 +1,1 @@
+It is used to record the changes in the repository. It is the next command after the git add. Every commit contains the index data and the commit message.
