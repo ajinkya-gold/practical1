@@ -1,0 +1,1 @@
+The term git origin master is used in the context of a remote repository. It is used to deal with the remote repository. The term origin comes from where repository original situated and master stands for the main branch.
